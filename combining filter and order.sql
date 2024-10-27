@@ -1,0 +1,1 @@
+select * from Customer where city='New York' order by customer_name
